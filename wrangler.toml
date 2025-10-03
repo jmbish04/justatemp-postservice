@@ -1,0 +1,6 @@
+name = "justatemp-postservice"
+main = "src/index.ts"
+compatibility_date = "2023-01-30"
+kv_namespaces = [
+  { binding = "POST_DB", id = "637168ed62714e818ac3c9ce6c50ead6", preview_id = "238c3081e8ae49f091c08df88cf6c079" }
+]
